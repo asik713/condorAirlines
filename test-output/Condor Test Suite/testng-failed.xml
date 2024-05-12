@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Condor Test Suite]">
+  <test name="Flight status and booking(failed)">
+    <classes>
+      <class name="testCases.FlightStatusAndBooking">
+        <methods>
+          <include name="verifyFlightStatus"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.FlightStatusAndBooking -->
+    </classes>
+  </test> <!-- Flight status and booking(failed) -->
+</suite> <!-- Failed suite [Condor Test Suite] -->

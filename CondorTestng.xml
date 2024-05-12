@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Condor Test Suite">
+<test name="Flight status and booking">
+<classes>
+		<class name="condorAirlinescli.AutoCompleteRevise"> </class>
+	</classes>
+	</test>	
+	
+</suite>
+
+	
+	
